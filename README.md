@@ -1,6 +1,7 @@
-# Conversor de Moedas - Currency Converter (OOP)
+# Conversor de Moedas - Currency Convert
 
-![License: ECL-2.0](https://img.shields.io/badge/License-ECL_2.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)er (OOP)
+
 
 ## 📋 Descrição
 Conversor de moedas em tempo real utilizando a API ExchangeRate-API.com
