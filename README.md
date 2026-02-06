@@ -1,5 +1,7 @@
 # Conversor de Moedas - Currency Converter (OOP)
 
+![License: ECL-2.0](https://img.shields.io/badge/License-ECL_2.0-blue.svg)
+
 ## 📋 Descrição
 Conversor de moedas em tempo real utilizando a API ExchangeRate-API.com
 Desenvolvido em Java com **arquitetura orientada a objetos** e interface de console interativa.
@@ -156,7 +158,7 @@ Currency Converter/
 └── CurrencyConverterApp.java  # Main: Controla a aplicação
 ```
 ## 📄 Licença
-Projeto educacional - Oracle Next Education (ONE)
+MIT - Projeto educacional - Oracle Next Education (ONE)
 
 ---
 
