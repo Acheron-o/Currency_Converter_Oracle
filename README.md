@@ -1,6 +1,6 @@
 # Conversor de Moedas - Currency Convert
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)er (OOP)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.sv)
 
 
 ## 📋 Descrição
